@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning devoops and cloud engineering
 - Reading at University of Colombo School of Computing 
-- 🌱 I’m currently learning **Springboot, Graphql, AWS, Kubernetes, Docker**
+- 🌱 I’m currently developing skills in **Springboot, Graphql, AWS, Kubernetes, Docker**
 - 👨‍💻 I'm currently developing, Restaurants + Cafe Management System
 - 💬 Ask me about **java,python,springboot,php**
 - 📫 How to reach me **mfarhaanfaizer@gmail.com**
