@@ -4,7 +4,7 @@
 2nd year Undergraduate
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"> 
 
-- 🌱 I’m currently learning devoops and AI/ML engineering
+- 🌱 I’m currently learning devops and AI/ML engineering
 - Reading at **University of Colombo School of Computing**
 - 🌱 I’m currently developing skills in **Springboot, Graphql, AWS, Kubernetes, docker and AI/ML**
 - 👨‍💻 I'm currently developing, **Restaurants + Cafe Management System**
