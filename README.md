@@ -1,6 +1,7 @@
 ## Hi there 👋 It's me Muhammed Farhaan Faizer
 
-<img src="https://img.shields.io/badge/Software%20Engineer-8A2BE2"/> &nbsp; <img width="20" height="20" src="https://img.icons8.com/parakeet/48/loading.png" alt="loading"/> &nbsp; <img src="https://img.shields.io/badge/%20AI/ML%20engineer-red?style=for-the-badge"/> <br /> <hr />
+<img src="https://img.shields.io/badge/Software%20Engineer-8A2BE2"/> &nbsp; <img width="20" height="20" src="https://img.icons8.com/parakeet/48/loading.png" alt="loading"/> &nbsp; <img src="https://img.shields.io/badge/%20AI/ML%20engineer-red?style=for-the-badge"/> <br/><br/>
+![image title](https://rushter.com/counter.svg) <br/> <hr />
 2nd year Undergraduate
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"> 
 
