@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning devops and AI/ML engineering
 - Reading at **University of Colombo School of Computing**
 - 🌱 I’m currently developing skills in **Springboot, Graphql, AWS, Kubernetes, docker and AI/ML**
-- 👨‍💻 I'm currently developing, **Restaurants + Cafe Management System**
+- 👨‍💻 I'm currently developing, **Smart Restaurant + Cafe Management System**
 - 💬 Ask me about **java, python, springboot, php and Machine Learning (ML) key Concepts**
 - 📫 How to reach me **mfarhaanfaizer@gmail.com**
 - Social Presence
